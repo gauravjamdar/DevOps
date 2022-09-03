@@ -1,1 +1,4 @@
 Gaurav is learning DevOps.
+echo "Lets do it."
+echo $(date)
+
